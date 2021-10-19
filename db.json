@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "categoryname": "süt"
+    },
+	{
+      "id": 2,
+      "categoryname": "elma"
+    }
+  ],
+  "products":[
+  
+     {
+	"id": 1,
+	"categoryId":1,
+	"productName": "Çilekli Süt",
+	"quantityPerUnit": 39,
+	"UnitsOnOrder": 10,
+	"UnitPrice": 8,
+	"unitsInStock": 1
+	
+  },
+  {
+	"id": 2,
+	"categoryId":1,
+	"productName": "Keçi Sütü",
+	"quantityPerUnit": 81,
+	"UnitsOnOrder": 7,
+	"UnitPrice": 6,
+	"unitsInStock": 1
+	
+  },
+  {
+	"id": 3,
+	"categoryId":2,
+	"productName": "Yeşil Elma",
+	"quantityPerUnit": 100,
+	"UnitsOnOrder": 6,
+	"UnitPrice": 3,
+	"unitsInStock": 3
+	
+  }
+  ]
+}
